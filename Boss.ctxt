@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Boss
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveBoss()
+comment3.params=
+comment3.target=void\ images()
+comment4.params=
+comment4.target=void\ shoot()
+comment5.params=
+comment5.target=void\ checkProjectileCollision()
+comment6.params=
+comment6.target=void\ handleBossDefeat()
+comment7.params=
+comment7.target=void\ victoryScreen()
+numComments=8
